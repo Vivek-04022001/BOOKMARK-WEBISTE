@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Vivek04022001/Bookmark-Landing-Page">
+  <a href="[https://github.com/Vivek04022001/Bookmark-Landing-Page](https://64fb2b49d0af9f007c6bc83b--frolicking-sprite-e31526.netlify.app/)">
     <img src="images/logo-bookmark.svg" alt="Logo" width="80" height="80">
   </a>
 
