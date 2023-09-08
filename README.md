@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="[https://github.com/Vivek04022001/Bookmark-Landing-Page](https://64fb2b49d0af9f007c6bc83b--frolicking-sprite-e31526.netlify.app/)">
-    <img src="images/logo-bookmark.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Vivek04022001/Bookmark-Landing-Page">
+    <img src="images/bookmark-logo" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Introducing the Bookmark Website: A Stylish Landing Page for Your Favorite Links!</h3>
@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Vivek04022001/Bookmark-Landing-Page/total) ![Contributors](https://img.shields.io/github/contributors/Vivek04022001/Bookmark-Landing-Page?color=dark-green) ![Forks](https://img.shields.io/github/forks/Vivek04022001/Bookmark-Landing-Page?style=social) ![Stargazers](https://img.shields.io/github/stars/Vivek04022001/Bookmark-Landing-Page?style=social) ![Issues](https://img.shields.io/github/issues/Vivek04022001/Bookmark-Landing-Page) ![License](https://img.shields.io/github/license/Vivek04022001/Bookmark-Landing-Page) 
+
 
 ## Table Of Contents
 
@@ -53,10 +53,10 @@ Unlock your creativity and build a stunning 'Bookmark Landing Page' that not onl
 
 ## Built With
 
-HTML5
-CSS3
-Tailwind Css
-Javascirpt
+1. HTML5
+2. CSS3
+3. Tailwind Css
+4. Javascirpt
 
 * []()
 
@@ -84,6 +84,8 @@ npm install
 npm run watch 
 ```
 
+
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -110,3 +112,8 @@ Contributions are what make the open source community such an amazing place to b
 
 * **Vivek Kumar** - *Computer Science Student* - [Vivek Kumar](https://github.com/Vivek-04022001) - *Created this frontend mentor practice website*
 
+## Acknowledgements
+
+* [ShaanCoding](https://github.com/ShaanCoding/)
+* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
+* [ImgShields](https://shields.io/)
