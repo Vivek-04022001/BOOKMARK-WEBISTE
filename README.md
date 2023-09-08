@@ -23,7 +23,7 @@
 ## Design Images
 
 <div style="text-align:center;">
-  <h3 >Desktop Design</h3>
+  <h3>Desktop Design</h3>
   <img src='images/webite-desktop-image.jpeg' width="200px" />
 </div>
 
