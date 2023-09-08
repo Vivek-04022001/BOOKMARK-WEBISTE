@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Vivek04022001/Bookmark-Landing-Page">
+  <a href="https://64fb2b49d0af9f007c6bc83b--frolicking-sprite-e31526.netlify.app/">
     <img src="images/bookmark-logo" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,14 +10,9 @@
     Elevate Your Bookmarks with the Ultimate Landing Page Experience!
     <br/>
     <br/>
-    <a href="https://github.com/Vivek04022001/Bookmark-Landing-Page"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/Vivek04022001/Bookmark-Landing-Page">View Demo</a>
+    <a href="https://64fb2b49d0af9f007c6bc83b--frolicking-sprite-e31526.netlify.app/">View Demo</a>
     .
-    <a href="https://github.com/Vivek04022001/Bookmark-Landing-Page/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Vivek04022001/Bookmark-Landing-Page/issues">Request Feature</a>
+   
   </p>
 </p>
 
@@ -30,14 +25,13 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Contributing](#contributing)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+
 
 ## About The Project
 
-![Screen Shot](https://64fb2b49d0af9f007c6bc83b--frolicking-sprite-e31526.netlify.app/)
+<img src='images/website-desktop-image'/>
 
 Explore the power of HTML, CSS, Tailwind CSS, and JavaScript in crafting a captivating landing page with the 'Bookmark Landing Page' project from Frontend Mentor. This immersive project provides a hands-on opportunity to showcase your web development skills as you design and code a visually stunning and functional web page.
 
@@ -84,14 +78,6 @@ npm install
 npm run watch 
 ```
 
-
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -111,9 +97,3 @@ Contributions are what make the open source community such an amazing place to b
 ## Authors
 
 * **Vivek Kumar** - *Computer Science Student* - [Vivek Kumar](https://github.com/Vivek-04022001) - *Created this frontend mentor practice website*
-
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
