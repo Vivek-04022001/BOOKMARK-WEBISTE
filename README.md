@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://64fb2b49d0af9f007c6bc83b--frolicking-sprite-e31526.netlify.app/">
-    <img src="images/bookmark-logo" alt="Logo" width="80" height="80">
+    <img src="images/bookmark-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Introducing the Bookmark Website: A Stylish Landing Page for Your Favorite Links!</h3>
@@ -31,7 +31,7 @@
 
 ## About The Project
 
-<img src='images/website-desktop-image'/>
+<img src='images/website-desktop-image.png'/>
 
 Explore the power of HTML, CSS, Tailwind CSS, and JavaScript in crafting a captivating landing page with the 'Bookmark Landing Page' project from Frontend Mentor. This immersive project provides a hands-on opportunity to showcase your web development skills as you design and code a visually stunning and functional web page.
 
